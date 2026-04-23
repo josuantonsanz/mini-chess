@@ -32,7 +32,7 @@ Ensure you have [uv](https://github.com/astral-sh/uv) installed.
 
 ### 2. Clone and Setup
 ```bash
-git clone https://github.com/josua/mini-chess.git
+git clone https://github.com/josuantonsanz/mini-chess.git
 cd mini-chess
 uv sync
 ```
