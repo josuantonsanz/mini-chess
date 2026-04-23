@@ -2,7 +2,10 @@
 
 A minimalist, floating desktop chess application for Windows. Play against bots at different ELO levels directly from your system tray.
 
-![Chess Board](https://raw.githubusercontent.com/lichess-org/lila/master/public/piece/cburnett/wK.svg) <!-- Just a placeholder icon -->
+![Chess Board](screenshots/screenshot.png)
+
+>[!info]
+> This project is a work in progress, made (mostly) with an AI agent.
 
 ## Features
 
