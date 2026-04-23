@@ -1,0 +1,1 @@
+# Mini Chess UI package
